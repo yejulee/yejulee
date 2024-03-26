@@ -6,6 +6,6 @@ It's always a pleasure to talk to new people and learn something new, so please 
 <!-- To give a snippet of my life, please check out my blog! -->
 
 - 🔭 I’m currently planning on creating my own, personal website!
-- 🌱 I’m currently learning Python and Tableau. 
+- 🌱 I’m currently learning Python, Tableau, and SQL. 
 - 💬 Ask me about anything Korean, journaling, or Stardew Valley!
 - ⚡ Fun fact: I learned how to play a complete song on my guitar after 2 weeks!
