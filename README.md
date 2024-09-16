@@ -6,6 +6,6 @@ It's always a pleasure to talk to new people and learn something new, so please 
 <!-- To give a snippet of my life, please check out my blog! -->
 
 - 🔭 I’m currently working on a flashcard application!
-- 🌱 I’m currently learning React and Next.js!
+- 🌱 I’m currently learning R studio!
 - 💬 Ask me about anything Korean, journaling, or Stardew Valley!
 - ⚡ Fun fact: I learned how to play a complete song on my guitar after 2 weeks!
