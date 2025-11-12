@@ -5,7 +5,7 @@ I double majored in Business Analytics & Information Technology (BAIT) and Compu
 I'm currently studying at Rutgers University-Newark for the MAcc Program!
 <!-- To give a snippet of my life, please check out my blog! -->
 
-- 🔭 I’m currently preparing for graduate school and the CPA exams!
+- 🔭 I’m currently preparing for the CPA exams!
 - 🌱 I’m currently learning Accounting!
 - 💬 Ask me about anything Korean, journaling, or Stardew Valley!
 - ⚡ Fun fact: I learned how to play a complete song on my guitar after 2 weeks!
